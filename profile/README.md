@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="/profile/gear.svg" alt="Millang Khorasan" width="140" />
+  <img src="/profile/gear.svg" alt="Millang Khorasan" width="1200" />
 </p>
 
 <h1 align="center">Millang Khorasan</h1>
